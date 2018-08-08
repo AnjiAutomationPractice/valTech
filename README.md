@@ -21,5 +21,6 @@ run from Project Root Directory
 
 # Potential Improvements For Future
 
-  a. Configure Tests to run in Groups
-  b. Configure Tests to run in paralell
+  a. Automate the flash applications with selenium and some other integrated tools
+  b. Configure Tests to run in Groups
+  c. Configure Tests to run in paralell
